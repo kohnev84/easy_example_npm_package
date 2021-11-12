@@ -1,0 +1,24 @@
+{
+  "name": "kohnev84",
+  "version": "1.0.1",
+  "description": "this is easy example npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kohnev84",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohnev84/easy_example_npm_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kohnev84/easy_example_npm_package/issues"
+  },
+  "homepage": "https://github.com/kohnev84/easy_example_npm_package#readme",
+  "keywords": [
+    "hello",
+    "world",
+    "kohnev84"
+  ]
+}
